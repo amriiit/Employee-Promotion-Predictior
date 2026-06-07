@@ -74,7 +74,7 @@ Through this project, I learned:
 
 This graph shows how the logistic loss decreases as gradient descent updates the model parameters, indicating successful learning.
 
-![Cost vs Iterations](images/cost_vs_iterations.png)
+![Cost vs Iterations](cost_vs_iterations.png)
 
 ---
 
@@ -82,7 +82,7 @@ This graph shows how the logistic loss decreases as gradient descent updates the
 
 The sigmoid function converts model outputs into probabilities between 0 and 1, enabling binary classification.
 
-![Sigmoid Curve](images/sigmoid_curve.png)
+![Sigmoid Curve](sigmoid_curve.png)
 
 ---
 
